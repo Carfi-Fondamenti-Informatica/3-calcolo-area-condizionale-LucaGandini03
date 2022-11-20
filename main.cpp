@@ -8,15 +8,12 @@ int main() {
    cin>>a>>b>>opzione;
    switch(opzione){
       case 0:
-          (a*b)/2;
           cout<<(a*b)/2;
           break;
       case 1:
-         (a*a);
          cout<<(a*a);
          break;
       case 2:
-         (a*b);
          cout<<(a*b);
          break;
       default:
