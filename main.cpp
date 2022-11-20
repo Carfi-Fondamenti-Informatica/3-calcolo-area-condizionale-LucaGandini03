@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
    float a=0;
-   float B=0
+   float b=0
    int opzione=0;
    cin>>a>>b>>opzione;
    switch(opzione){
